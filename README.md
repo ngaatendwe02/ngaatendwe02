@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ngaatendwe
 
-### 🎓 M.S. Data Science Student | Aspiring Data Scientist
+### 🎓 M.S. Data Science | Machine Learning | Predictive Analytics | Python & SQL
 
 Welcome to my GitHub profile!
 
